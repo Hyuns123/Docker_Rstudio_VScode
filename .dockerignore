@@ -1,0 +1,7 @@
+#.dockerignore
+# Docker will ignore the following files and folders during the image build
+
+.git/
+node_modules/
+*.log
+.env
