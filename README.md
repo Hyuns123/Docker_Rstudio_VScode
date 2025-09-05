@@ -2,5 +2,5 @@
 
 Reference
 * [original](https://github.com/rpodcast/r_dev_projects/blob/main/.gitignore) : Docker + Rstudio + VScode + rev
-* [modified](https://github.com/youngroklee-ml/dev-rstudio/blob/main/renv.lock) : Docker + Rstudio + rev + macOS
+* [modified](https://github.com/youngroklee-ml/dev-rstudio) : Docker + Rstudio + rev + macOS
 
